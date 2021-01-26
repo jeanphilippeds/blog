@@ -12,6 +12,15 @@ Kick off your project with this blog boilerplate. This starter ships with the ma
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
 
+## Mode operatoire pour deployer
+
+- Cliquer sur `Terminal > New terminal`
+- Taper `git pull`
+- Ecrire un article en créant un dossier dans `content/blog`
+- Quand c'est terminé: `git add . && git commit -m "Description des changements" && git push`
+- Attendre quelques minutes...
+
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
@@ -97,11 +106,3 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-blog)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
-
-
-## Mode operatoire pour deployer
-
-- Ecrire un article en creant un dossier dans `content/blog`
-- Quand c'est termine, cliquer sur `Terminal > New terminal`
-- `git add . && git commit -m "Description des changements" && git push`
-- Attendre quelques minutes...
