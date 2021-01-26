@@ -97,3 +97,11 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-blog)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+
+## Mode operatoire pour deployer
+
+- Ecrire un article en creant un dossier dans `content/blog`
+- Quand c'est termine, cliquer sur `Terminal > New terminal`
+- `git add . && git commit -m "Description des changements" && git push`
+- Attendre quelques minutes...
