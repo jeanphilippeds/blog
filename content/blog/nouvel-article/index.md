@@ -156,7 +156,7 @@ This is a paragraph.
 
 ```markdown
 1. `code goes` here in this line
-1. **bold** goes here
+1. bold goes here
 ```
 
 Paragraph:
